@@ -1,0 +1,1 @@
+insert into mesa (nombre, cantidadMaximaComensales) values (:nombre, :cantidadMaximaComensales)
